@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a fullstack developer with eight years of experience in JS technologies.<br>Now I'm working with NodeJS and React.
+I am a highly skilled full-stack engineer with over 8 years of experience working on international projects. As a team lead, I have successfully managed teams of developers, ensuring high-quality deliverables within strict deadlines. I have expertise in various programming languages and frameworks, including but not limited to JavaScript, React, Node.js, Flutter, and Golang.
+
+Apart from my work, I have a passion for martial arts and chess. I find that practicing martial arts not only challenges me physically but also helps me develop mental toughness and discipline. Similarly, playing chess challenges me mentally and helps me develop critical thinking and problem-solving skills.
+
+Overall, I am a driven and dedicated professional with a strong work ethic and a commitment to excellence in everything I do.
 
 
 ## 🌐 Socials:
