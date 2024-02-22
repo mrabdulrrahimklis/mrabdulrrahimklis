@@ -5,6 +5,7 @@ Apart from my work, I have a passion for martial arts and chess. I find that pra
 
 Overall, I am a driven and dedicated professional with a strong work ethic and a commitment to excellence in everything I do.
 
+<a href="https://app.daily.dev/mrak"><img src="https://api.daily.dev/devcards/v2/vDDQgofvnPCswyNPO5xBH.png?type=default&r=7ys" width="356" alt="Abdulrahim Klis's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abudu.klis/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrabdulrrahimklis/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahimklis) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abudu.klis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5737758/abdulrahim-klis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KlisAbdulrahim) 
