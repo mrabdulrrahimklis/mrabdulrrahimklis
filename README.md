@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a highly skilled full-stack engineer with over 10 years of experience working on international projects. As a team lead, I have successfully managed teams of developers, ensuring high-quality deliverables within strict deadlines. I have expertise in various programming languages and frameworks, including but not limited to JS/TS, React, Vue, Angular, Node.js, Flutter, and Rust.
+I am a highly skilled full-stack engineer with over 10 years of experience. As a solution architect I build multiple solutions for clients around world and on multiple projects I was a team lead. I have successfully managed teams of developers, ensuring high-quality deliverables within strict deadlines. I have expertise in various programming languages and frameworks, including but not limited to JS/TS (React, Vue, Angular, Node.js, NextJS, NestJS), Dart (Flutter), and big Rust enthusiast.
 
 Apart from my work, I have a passion for martial arts and chess. I find that practicing martial arts not only challenges me physically but also helps me develop mental toughness and discipline. Similarly, playing chess challenges me mentally and helps me develop critical thinking and problem-solving skills.
 
